@@ -18,7 +18,7 @@ Principal Member of Technical Staff, *2001&mdash;present*
 >Notable recent projects:
 
 >* [IQ/Max Touch](https://www.ipc.com/iq-max-touch/) &mdash; IPC's flagship desktop device.  Was key member of project team from very earliest stages through shipment.  C++, Embedded Linux, Qt/QML, Wayland.
->* [Unigy 360](https://www.ipc.com/solutions/exchanging-information/real-time-collaboration/unigy-360/) &mdash; Working to bring IPC's voice communication systems to the Cloud.  JavaScript/TypeScript, AngularJS, Node, WebRTC.
+>* [Unigy 360](https://www.ipc.com/solutions/exchanging-information/real-time-collaboration/unigy-360/) &mdash; Working to bring IPC's voice communication systems to the Cloud.  JavaScript/TypeScript, AngularJS, Node, WebRTC, iOS and Android.
 
 ### [Feed on Feeds](http://feedonfeeds.com/)
 Open Source Project, *2003&mdash;2011*
@@ -45,7 +45,7 @@ Self-Driving Car Nanodegree, *2017*
 ### Rensselaer Polytechnic Institute
 MS in Computer Science, *2004*
 
->Final 
+>Thesis: Cookieless HTTP Session Persistence Using the BASE Tag
 
 ### Eastern Connecticut State University
 BS in Mathematics and BS in Computer Science, *1997*
@@ -72,3 +72,8 @@ BS in Mathematics and BS in Computer Science, *1997*
 * [Systems, methods, and computer program products for performing call swap](https://patents.google.com/patent/US10031717B2)
 * [Systems, methods and computer program products for controlling the audio levels of multiple simultaneous communication channels](https://patents.google.com/patent/US20160371052A1) (pending)
 
+### Other Interests
+* Internationalization / Localization to Asian languages
+* Basic familiarity with Chinese language
+* Travel: have visited 41 US states and 18 countries
+* Any game by [Zachtronics](http://www.zachtronics.com/)
